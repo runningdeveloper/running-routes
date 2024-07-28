@@ -6,7 +6,7 @@ Don't know what I am doing FYI.
 
 ### Results
 
-![Routes](https://runningdeveloper.github.io/running-routes/)
+[Routes](https://runningdeveloper.github.io/running-routes/)
 
 ## Resources
 
