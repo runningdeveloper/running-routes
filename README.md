@@ -4,8 +4,6 @@ Don't know what I am doing FYI.
 
 ## Results
 
-### Results
-
 [Routes](https://runningdeveloper.github.io/running-routes/)
 
 ## Resources
@@ -14,7 +12,7 @@ For OSMNX docs and good examples https://osmnx.readthedocs.io/en/stable/index.ht
 
 ## Setup
 
-TOD: Need to find another source for South_Africa_SRMT30meters.tif 
+TODO: Need to find another source for South_Africa_SRMT30meters.tif 
 
 ### Docker for jupiter notebook
 
@@ -25,7 +23,7 @@ I had trouble with some of the dependencies on my mac so the osmnx jupiter conta
 ```bash
 docker-compose up
 ```
-http://localhost:8888/lab
+Visit the jupiter notebook at http://localhost:8888/lab
 
 <!-- ### Local setup
 I need to clean up the dependancies and requirements.txt file before this will work.

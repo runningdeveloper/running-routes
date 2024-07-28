@@ -4,3 +4,4 @@ __pycache__/
 cache/
 .DS_Store
 work/data/South_Africa_SRMT30meters.tif
+private/
