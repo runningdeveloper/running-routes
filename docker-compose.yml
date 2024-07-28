@@ -1,0 +1,9 @@
+services:
+  osm_jupyter:
+    image: gboeing/osmnx:latest
+    volumes:
+      - ./work:/home/jovyan/work
+    ports:
+      - 8888:8888
+    container_name: osm_notebook
+    command: "start-notebook.sh --NotebookApp.token="
