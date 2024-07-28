@@ -14,6 +14,8 @@ For OSMNX docs and good examples https://osmnx.readthedocs.io/en/stable/index.ht
 
 ## Setup
 
+TOD: Need to find another source for South_Africa_SRMT30meters.tif 
+
 ### Docker for jupiter notebook
 
 This is the easiest way to get the jupiter notebook up and running. Don't need to install anything on your local machine. Assuming you have docker installed.
